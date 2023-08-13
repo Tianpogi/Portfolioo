@@ -437,10 +437,11 @@ nav .nav-pills li a {
 
 .container12 {
   position: absolute;
-  width: auto;
+  width: 95%;
   height: 2200px;
   overflow: hidden;
   padding-top: 500px;
+  z-index: -100;
 }
 
 .bubbles{
