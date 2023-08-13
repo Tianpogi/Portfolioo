@@ -441,7 +441,7 @@ nav .nav-pills li a {
   height: 2200px;
   overflow: hidden;
   padding-top: 500px;
-  z-index: -100;
+  z-index: -1000;
 }
 
 .bubbles{
